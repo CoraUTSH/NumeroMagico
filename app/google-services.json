@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89762011707",
+    "project_id": "contactos-5f089",
+    "storage_bucket": "contactos-5f089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89762011707:android:e54433f49116d862bd1a1e",
+        "android_client_info": {
+          "package_name": "com.example.numeromagico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA63HoLkAIrBDU2mhNUkc8epJkxjHRqNCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
